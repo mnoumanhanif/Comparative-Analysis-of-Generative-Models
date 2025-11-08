@@ -70,5 +70,5 @@ The project performs a **comparative evaluation** of three generative architectu
 ## 🧑‍💻 Author
 **Muhammad Nouman Hanif**  
 MS (Data Science) Candidate | FAST–NUCES Lahore  
-📧 Email: [your-email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
+📧 Email: [mnoumanhanif66@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mnoumanhanif/)  
