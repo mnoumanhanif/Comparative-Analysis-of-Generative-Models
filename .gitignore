@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyTorch model weights
+*.pth
+*.pt
+
+# Data
+dataset/
+data/
+*.csv
+
+# Generated outputs
+generated_images/
+
+# Logs
+*.log
+runs/
+
+# Test cache
+.pytest_cache/
